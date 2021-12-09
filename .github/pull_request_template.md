@@ -1,8 +1,3 @@
----
-name: Pull request
-about: Propose changes to the code
----
-
 ## Description
 <!--
 - What this pull request does.
