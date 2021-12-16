@@ -5,13 +5,13 @@
 -->
 
 ### Checklist
-[ ] Corresponding issue has been opened
-[ ] New tests added
-[ ] Strings are localized
+- [ ] Corresponding issue has been opened
+- [ ] New tests added
+- [ ] Strings are localized
 
 <!-- Uncomment for web client-related PRs
-[ ] Verified on mobile
-[ ] Verified on desktop
+- [ ] Verified on mobile
+- [ ] Verified on desktop
 -->
 
 ### Related Issues
