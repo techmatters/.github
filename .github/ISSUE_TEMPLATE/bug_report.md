@@ -33,7 +33,7 @@ Steps to reproduce the behavior. Describe what you typed, clicked, tapped, swipe
 
 ## Additional context
 <!--
-Add any other context about the problem here.
+Add context about the problem.
 Include other URLs related to the problem that should also work correctly.
 If applicable, add screenshots.
 -->
