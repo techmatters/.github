@@ -7,9 +7,10 @@
 ### Checklist
 - [ ] Corresponding issue has been opened
 - [ ] New tests added
-- [ ] Strings are localized
 
 <!-- Uncomment for web client-related PRs
+- [ ] Strings are localized
+- [ ] String are verified
 - [ ] Verified on mobile
 - [ ] Verified on desktop
 - [ ] Verified accessibility ([Accessibility - Web applications](https://docs.google.com/document/d/1VwPDyLqw7r_iISMgDZr1FdAmAqqOIIVIxQqsYA-HaHE/edit?usp=sharing))
