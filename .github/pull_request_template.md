@@ -9,8 +9,8 @@
 - [ ] New tests added
 
 <!-- Uncomment for web client-related PRs
+- [ ] English strings reviewed and copyedited
 - [ ] Strings are localized
-- [ ] String are verified
 - [ ] Verified on mobile
 - [ ] Verified on desktop
 - [ ] Verified accessibility ([Accessibility - Web applications](https://docs.google.com/document/d/1VwPDyLqw7r_iISMgDZr1FdAmAqqOIIVIxQqsYA-HaHE/edit?usp=sharing))
