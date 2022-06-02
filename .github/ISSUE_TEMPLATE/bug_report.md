@@ -19,7 +19,9 @@ Good: Footer missing from homepage
 A clear and concise description of the problem.
 
 ## Steps To Reproduce
+<!--
 Steps to reproduce the behavior. Describe what you typed, clicked, tapped, swiped, saw and heard.
+-->
 1. Go to URL: '...'
 2. Click on '....'
 3. Scroll down to '....'
