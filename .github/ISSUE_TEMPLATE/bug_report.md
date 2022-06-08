@@ -22,10 +22,10 @@ A clear and concise description of the problem.
 <!--
 Steps to reproduce the behavior. Describe what you typed, clicked, tapped, swiped, saw and heard.
 -->
-1. Go to URL: '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+1. Go to URL: [insert URL here]
+2. <!-- Click on '....' -->
+3. <!-- Scroll down to '....' -->
+4. <!-- See error -->
 
 ## Expected behavior
 <!-- What you expected to happen. -->
