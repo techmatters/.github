@@ -1,6 +1,6 @@
 ---
-name: Product Feature
-about: create a feature with the default content 
+name: Terraso Product Feature
+about: create a feature with the default content for Terraso features
 title: ''
 labels: ''
 assignees: ''
