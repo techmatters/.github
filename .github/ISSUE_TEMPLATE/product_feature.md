@@ -1,6 +1,6 @@
 ---
-name: Terraso Product Feature
-about: create a feature with the default content for Terraso features
+name: Feature Spec (Terraso)
+about: Create a new feature and describe its product, engineering and design work
 title: ''
 labels: ''
 assignees: ''
