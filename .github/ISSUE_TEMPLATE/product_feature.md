@@ -25,6 +25,7 @@ assignees: ''
 # Design 
 - [ ] Implementation matches design
 - [ ] Copy Editing
+- [ ] Translation (Spanish)
 - [ ] Additional changes...
 
 # Engineering
