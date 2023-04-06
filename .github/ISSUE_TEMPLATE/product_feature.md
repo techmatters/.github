@@ -6,29 +6,29 @@ labels: ''
 assignees: ''
 ---
 
-## Description
+# Description
 
 
-## Problem
+# Problem
 
 
-## References
+# References
 
 
-## Release Criteria
+# Release Criteria
 
-# Product
+## Product
 - [ ] User Story
 - [ ] User Story
 - [ ] User Story
 
-# Design 
+## Design 
 - [ ] Implementation matches design
 - [ ] Copy Editing
 - [ ] Translation (Spanish)
 - [ ] Additional changes...
 
-# Engineering
+## Engineering
 Automated testing for:
 
 - [ ] Correctness
@@ -36,7 +36,7 @@ Automated testing for:
 - [ ] Security
 - [ ] Accessibility
 
-# QA
+## QA
 Happy Path Test
 - [ ] 
 - [ ] 
