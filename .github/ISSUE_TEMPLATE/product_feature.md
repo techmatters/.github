@@ -28,14 +28,6 @@ assignees: ''
 - [ ] Translation (Spanish)
 - [ ] Additional changes...
 
-## Engineering
-Automated testing for:
-
-- [ ] Correctness
-- [ ] Performance
-- [ ] Security
-- [ ] Accessibility
-
 ## QA
 Happy Path Test
 - [ ] 
