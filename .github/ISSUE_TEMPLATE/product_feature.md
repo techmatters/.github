@@ -14,6 +14,17 @@ assignees: ''
 
 ## References
 
+```[tasklist]
+### Issues
+- [ ] Design task - design experience
+- [ ] Team Reviews design
+- [ ] Design task - Copy edits
+- [ ] Engineering task - implement design
+- [ ] (optional) Design tweaks based on learning
+- [ ] Product tests against criteria
+- [ ] QA
+- [ ] Usability testing
+```
 
 ## Release Criteria
 
