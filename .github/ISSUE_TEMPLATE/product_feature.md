@@ -14,8 +14,10 @@ assignees: ''
 
 ## References
 
+## Process
 ```[tasklist]
 ### Issues
+- [ ] Product task - write spec
 - [ ] Design task - design experience
 - [ ] Team Reviews design
 - [ ] Design task - Copy edits
