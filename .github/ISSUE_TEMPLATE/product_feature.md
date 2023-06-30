@@ -6,29 +6,30 @@ labels: ''
 assignees: ''
 ---
 
-# Description
+## Description
 
 
-# Problem
+## Problem
 
 
-# References
+## References
 
 
-# Release Criteria
+## Release Criteria
 
-## Product
+### Product
 - [ ] User Story
 - [ ] User Story
 - [ ] User Story
 
-## Design 
-- [ ] Implementation matches design
+### Design 
 - [ ] Copy Editing
+- [ ] Review Implementation matches design
+- [ ] (Optional) Iterate designs based on testing implementation
 - [ ] Translation (Spanish)
 - [ ] Additional changes...
 
-## QA
+### QA
 Happy Path Test
 - [ ] 
 - [ ] 
