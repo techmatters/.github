@@ -28,6 +28,7 @@ assignees: ''
 - [ ] Engineering task - implement design
 - [ ] (optional) Design tweaks based on learning
 - [ ] Product tests against criteria
+- [ ] Translation
 - [ ] QA
 - [ ] Usability testing
 ```
