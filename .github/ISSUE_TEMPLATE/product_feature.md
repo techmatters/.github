@@ -29,7 +29,7 @@ assignees: ''
 - [ ] (optional) Design tweaks based on learning
 - [ ] Product tests against criteria
 - [ ] Translation
-- [ ] QA
+- [ ] Product task - Write QA plan
 - [ ] Usability testing
 ```
 
