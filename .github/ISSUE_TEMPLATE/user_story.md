@@ -1,5 +1,5 @@
 ---
-name: Feature Spec (Terraso)
+name: User Story (Terraso)
 about: Create a new feature and describe its product, engineering and design work
 title: ''
 labels: ''
