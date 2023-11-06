@@ -22,6 +22,8 @@ assignees: ''
 ```[tasklist]
 ### Issues
 - [ ] Product task - write spec
+- [ ] Design research (if needed)
+- [ ] Engineering research (if needed)
 - [ ] Design task - design experience
 - [ ] Team Reviews design
 - [ ] Design task - Copy edits
@@ -39,13 +41,6 @@ assignees: ''
 - [ ] User Story
 - [ ] User Story
 - [ ] User Story
-
-### Design 
-- [ ] Copy Editing
-- [ ] Review Implementation matches design
-- [ ] (Optional) Iterate designs based on testing implementation
-- [ ] Translation (Spanish)
-- [ ] Additional changes...
 
 ### QA
 Happy Path Test
